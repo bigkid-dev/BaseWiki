@@ -36,30 +36,10 @@ Deploy contracts seamlessly with the power of AI:
 - **Informed Decisions**: Make well-informed decisions with real-time insights and accurate data analysis.
 - **Ease of Use**: Enjoy a user-friendly interface and seamless integration within the Base ecosystem.
 
-## Getting Started
 
-To get started with BaseWiki, follow these simple steps:
 
-1. **Sign Up**: Create an account to access the features and functionalities of BaseWiki.
-2. **Explore**: Navigate through the intuitive interface and discover the various tools available.
-3. **Execute**: Start performing on-chain actions, analyze contracts, and get real-time insights with ease.
-
-## Contributing
-
-We welcome contributions from the community to enhance BaseWiki. If you're interested in contributing, please follow our [contribution guidelines](CONTRIBUTING.md).
-
-## Support
-
-If you have any questions or need assistance, please reach out to our support team at support@basewiki.com.
-
-## License
-
-BaseWiki is licensed under the [MIT License](LICENSE).
-
----
+#
 
 Say goodbye to tedious searches and hello to streamlined, intelligent assistance with BaseWiki. Enhance your experience and productivity within the Base ecosystem today!
 
 ---
-
-**Note**: Replace placeholders like `support@basewiki.com` and links to contribution guidelines and license with actual links and email addresses before using this README in your project.
