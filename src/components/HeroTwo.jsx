@@ -23,7 +23,7 @@ const HeroTwo = () => {
         </p>
         <div className="mt-10">
           <Link
-            to="/products"
+            to="/chats"
             className="btn btn-primary"
             style={{
               backgroundColor: "rgb(74,128,219)",
